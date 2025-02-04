@@ -4,8 +4,6 @@
     flex-wrap: wrap;
     background-color: gray; 
     /*окрашивает всё в сответствующий цвет*/
-    cursor: pointer;
-    transition: background-color 0.3s ease;
 }
 .square {
    width: 100px;
