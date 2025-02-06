@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    display: inline-flex;
+}
+.image {
+   box-sizing: border-box;
+   padding: 10px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-size: 20px;
+   color: white;
+}
